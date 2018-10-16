@@ -1,5 +1,5 @@
 {
-  "name": "itheima-admin",
+  "name": "itheima-admin-template",
   "version": "1.0.0",
   "description": "黑马Admin 管理系统基础模板",
   "author": "taoshiwei <taoshiwei@itcast.cn>",
@@ -14,19 +14,12 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
-    "echarts": "^3.8.5",
     "element-ui": "^2.2.2",
     "font-awesome": "^4.7.0",
-    "js-cookie": "^2.2.0",
     "normalize.css": "^8.0.0",
     "nprogress": "^0.2.0",
-    "screenfull": "^3.3.2",
-    "sha.js": "^2.4.11",
     "vue": "^2.5.2",
-    "vue-i18n": "^7.6.0",
-    "vue-router": "^3.0.1",
-    "vuex": "^3.0.1"
+    "vue-router": "^3.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
